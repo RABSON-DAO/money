@@ -9,7 +9,7 @@ import { countriesSuccessRequest } from './actions';
 function* getCountries() {
   const response = yield call(
     axios.get,
-    'https://my-json-server.typicode.com/juliomerisio/currency-json-server/currencies',
+    'https://github.com/apilayer/currency-conversion/blob/master/test/data/currencies.json',
   );
 
   // Added filter to remove (Romania) with inconsistent data,
