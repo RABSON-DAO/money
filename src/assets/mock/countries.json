@@ -1,1215 +1,1457 @@
 [
     {
-     "label": "Afghanistan",
      "id": "AFN",
+     "flag": "AFN",
+     "label": "Afghanistan",
      "value": "AFN"
     },
     {
-     "label": "Albania",
      "id": "ALL",
+     "flag": "ALL",
+     "label": "Albania",
      "value": "ALL"
     },
     {
-     "label": "Algeria",
      "id": "DZD",
+     "flag": "DZD",
+     "label": "Algeria",
      "value": "DZD"
     },
     {
-     "label": "American Samoa",
      "id": "USD",
+     "flag": "USD",
+     "label": "American Samoa",
      "value": "USD"
     },
     {
-     "label": "Andorra",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Andorra",
      "value": "EUR"
     },
     {
-     "label": "Angola",
      "id": "AOA",
+     "flag": "AOA",
+     "label": "Angola",
      "value": "AOA"
     },
     {
+     "id": "XCD",
+     "flag": "XCD",
      "label": "Anguilla",
-     "id": "XCD",
      "value": "XCD"
     },
     {
+     "id": "XCD",
+     "flag": "XCD",
      "label": "Antarctica",
-     "id": "XCD",
      "value": "XCD"
     },
     {
+     "id": "XCD",
+     "flag": "XCD",
      "label": "Antigua and Barbuda",
-     "id": "XCD",
      "value": "XCD"
     },
     {
-     "label": "Argentina",
      "id": "ARS",
+     "flag": "ARS",
+     "label": "Argentina",
      "value": "ARS"
     },
     {
-     "label": "Armenia",
      "id": "AMD",
+     "flag": "AMD",
+     "label": "Armenia",
      "value": "AMD"
     },
     {
-     "label": "Aruba",
      "id": "AWG",
+     "flag": "AWG",
+     "label": "Aruba",
      "value": "AWG"
     },
     {
-     "label": "Australia",
      "id": "AUD",
+     "flag": "AUD",
+     "label": "Australia",
      "value": "AUD"
     },
     {
-     "label": "Austria",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Austria",
      "value": "EUR"
     },
     {
-     "label": "Azerbaijan",
      "id": "AZN",
+     "flag": "AZN",
+     "label": "Azerbaijan",
      "value": "AZN"
     },
     {
-     "label": "Bahamas",
      "id": "BSD",
+     "flag": "BSD",
+     "label": "Bahamas",
      "value": "BSD"
     },
     {
-     "label": "Bahrain",
      "id": "BHD",
+     "flag": "BHD",
+     "label": "Bahrain",
      "value": "BHD"
     },
     {
-     "label": "Bangladesh",
      "id": "BDT",
+     "flag": "BDT",
+     "label": "Bangladesh",
      "value": "BDT"
     },
     {
-     "label": "Barbados",
      "id": "BBD",
+     "flag": "BBD",
+     "label": "Barbados",
      "value": "BBD"
     },
     {
-     "label": "Belarus",
      "id": "BYR",
+     "flag": "BYR",
+     "label": "Belarus",
      "value": "BYR"
     },
     {
-     "label": "Belgium",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Belgium",
      "value": "EUR"
     },
     {
-     "label": "Belize",
      "id": "BZD",
+     "flag": "BZD",
+     "label": "Belize",
      "value": "BZD"
     },
     {
-     "label": "Benin",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Benin",
      "value": "XOF"
     },
     {
-     "label": "Bermuda",
      "id": "BMD",
+     "flag": "BMD",
+     "label": "Bermuda",
      "value": "BMD"
     },
     {
-     "label": "Bhutan",
      "id": "BTN",
+     "flag": "BTN",
+     "label": "Bhutan",
      "value": "BTN"
     },
     {
-     "label": "Bolivia",
      "id": "BOB",
+     "flag": "BOB",
+     "label": "Bolivia",
      "value": "BOB"
     },
     {
-     "label": "Bosnia and Herzegovina",
      "id": "BAM",
+     "flag": "BAM",
+     "label": "Bosnia and Herzegovina",
      "value": "BAM"
     },
     {
-     "label": "Botswana",
      "id": "BWP",
+     "flag": "BWP",
+     "label": "Botswana",
      "value": "BWP"
     },
     {
-     "label": "Bouvet Island",
      "id": "NOK",
+     "flag": "NOK",
+     "label": "Bouvet Island",
      "value": "NOK"
     },
     {
-     "label": "Brazil",
      "id": "BRL",
+     "flag": "BRL",
+     "label": "Brazil",
      "value": "BRL"
     },
     {
-     "label": "British Indian Ocean Territory",
      "id": "USD",
+     "flag": "USD",
+     "label": "British Indian Ocean Territory",
      "value": "USD"
     },
     {
-     "label": "Brunei",
      "id": "BND",
+     "flag": "BND",
+     "label": "Brunei",
      "value": "BND"
     },
     {
-     "label": "Bulgaria",
      "id": "BGN",
+     "flag": "BGN",
+     "label": "Bulgaria",
      "value": "BGN"
     },
     {
-     "label": "Burkina Faso",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Burkina Faso",
      "value": "XOF"
     },
     {
-     "label": "Burundi",
      "id": "BIF",
+     "flag": "BIF",
+     "label": "Burundi",
      "value": "BIF"
     },
     {
-     "label": "Cambodia",
      "id": "KHR",
+     "flag": "KHR",
+     "label": "Cambodia",
      "value": "KHR"
     },
     {
-     "label": "Cameroon",
      "id": "XAF",
+     "flag": "XAF",
+     "label": "Cameroon",
      "value": "XAF"
     },
     {
-     "label": "Canada",
      "id": "CAD",
+     "flag": "CAD",
+     "label": "Canada",
      "value": "CAD"
     },
     {
-     "label": "Cape Verde",
      "id": "CVE",
+     "flag": "CVE",
+     "label": "Cape Verde",
      "value": "CVE"
     },
     {
-     "label": "Cayman Islands",
      "id": "KYD",
+     "flag": "KYD",
+     "label": "Cayman Islands",
      "value": "KYD"
     },
     {
+     "id": "XAF",
+     "flag": "XAF",
      "label": "Central African Republic",
-     "id": "XAF",
      "value": "XAF"
     },
     {
+     "id": "XAF",
+     "flag": "XAF",
      "label": "Chad",
-     "id": "XAF",
      "value": "XAF"
     },
     {
-     "label": "Chile",
      "id": "CLP",
+     "flag": "CLP",
+     "label": "Chile",
      "value": "CLP"
     },
     {
-     "label": "China",
      "id": "CNY",
+     "flag": "CNY",
+     "label": "China",
      "value": "CNY"
     },
     {
+     "id": "AUD",
+     "flag": "AUD",
      "label": "Christmas Island",
-     "id": "AUD",
      "value": "AUD"
     },
     {
+     "id": "AUD",
+     "flag": "AUD",
      "label": "Cocos (Keeling) Islands",
-     "id": "AUD",
      "value": "AUD"
     },
     {
-     "label": "Colombia",
      "id": "COP",
+     "flag": "COP",
+     "label": "Colombia",
      "value": "COP"
     },
     {
-     "label": "Comoros",
      "id": "KMF",
+     "flag": "KMF",
+     "label": "Comoros",
      "value": "KMF"
     },
     {
-     "label": "Congo",
      "id": "XAF",
+     "flag": "XAF",
+     "label": "Congo",
      "value": "XAF"
     },
     {
-     "label": "Cook Islands",
      "id": "NZD",
+     "flag": "NZD",
+     "label": "Cook Islands",
      "value": "NZD"
     },
     {
-     "label": "Costa Rica",
      "id": "CRC",
+     "flag": "CRC",
+     "label": "Costa Rica",
      "value": "CRC"
     },
     {
-     "label": "Croatia",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Croatia",
      "value": "EUR"
     },
     {
-     "label": "Cuba",
      "id": "CUP",
+     "flag": "CUP",
+     "label": "Cuba",
      "value": "CUP"
     },
     {
-     "label": "Cyprus",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Cyprus",
      "value": "EUR"
     },
     {
-     "label": "Czech Republic",
      "id": "CZK",
+     "flag": "CZK",
+     "label": "Czech Republic",
      "value": "CZK"
     },
     {
-     "label": "Denmark",
      "id": "DKK",
+     "flag": "DKK",
+     "label": "Denmark",
      "value": "DKK"
     },
     {
-     "label": "Djibouti",
      "id": "DJF",
+     "flag": "DJF",
+     "label": "Djibouti",
      "value": "DJF"
     },
     {
-     "label": "Dominica",
      "id": "XCD",
+     "flag": "XCD",
+     "label": "Dominica",
      "value": "XCD"
     },
     {
-     "label": "Dominican Republic",
      "id": "DOP",
+     "flag": "DOP",
+     "label": "Dominican Republic",
      "value": "DOP"
     },
     {
-     "label": "East Timor",
      "id": "USD",
+     "flag": "USD",
+     "label": "East Timor",
      "value": "USD"
     },
     {
-     "label": "Ecuador",
      "id": "ECS",
+     "flag": "ECS",
+     "label": "Ecuador",
      "value": "ECS"
     },
     {
-     "label": "Egypt",
      "id": "EGP",
+     "flag": "EGP",
+     "label": "Egypt",
      "value": "EGP"
     },
     {
-     "label": "El Salvador",
      "id": "SVC",
+     "flag": "SVC",
+     "label": "El Salvador",
      "value": "SVC"
     },
     {
-     "label": "England",
      "id": "GBP",
+     "flag": "GBP",
+     "label": "England",
      "value": "GBP"
     },
     {
-     "label": "Equatorial Guinea",
      "id": "XAF",
+     "flag": "XAF",
+     "label": "Equatorial Guinea",
      "value": "XAF"
     },
     {
-     "label": "Eritrea",
      "id": "ERN",
+     "flag": "ERN",
+     "label": "Eritrea",
      "value": "ERN"
     },
     {
-     "label": "Estonia",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Estonia",
      "value": "EUR"
     },
     {
-     "label": "Ethiopia",
      "id": "ETB",
+     "flag": "ETB",
+     "label": "Ethiopia",
      "value": "ETB"
     },
     {
-     "label": "Falkland Islands",
      "id": "FKP",
+     "flag": "FKP",
+     "label": "Falkland Islands",
      "value": "FKP"
     },
     {
-     "label": "Faroe Islands",
      "id": "DKK",
+     "flag": "DKK",
+     "label": "Faroe Islands",
      "value": "DKK"
     },
     {
-     "label": "Fiji Islands",
      "id": "FJD",
+     "flag": "FJD",
+     "label": "Fiji Islands",
      "value": "FJD"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "Finland",
-     "id": "EUR",
      "value": "EUR"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "France",
-     "id": "EUR",
      "value": "EUR"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "French Guiana",
-     "id": "EUR",
      "value": "EUR"
     },
     {
-     "label": "French Polynesia",
      "id": "XPF",
+     "flag": "XPF",
+     "label": "French Polynesia",
      "value": "XPF"
     },
     {
-     "label": "French Southern territories",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "French Southern territories",
      "value": "EUR"
     },
     {
-     "label": "Gabon",
      "id": "XAF",
+     "flag": "XAF",
+     "label": "Gabon",
      "value": "XAF"
     },
     {
-     "label": "Gambia",
      "id": "GMD",
+     "flag": "GMD",
+     "label": "Gambia",
      "value": "GMD"
     },
     {
-     "label": "Georgia",
      "id": "GEL",
+     "flag": "GEL",
+     "label": "Georgia",
      "value": "GEL"
     },
     {
-     "label": "Germany",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Germany",
      "value": "EUR"
     },
     {
-     "label": "Ghana",
      "id": "GHS",
+     "flag": "GHS",
+     "label": "Ghana",
      "value": "GHS"
     },
     {
-     "label": "Gibraltar",
      "id": "GIP",
+     "flag": "GIP",
+     "label": "Gibraltar",
      "value": "GIP"
     },
     {
-     "label": "Greece",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Greece",
      "value": "EUR"
     },
     {
-     "label": "Greenland",
      "id": "DKK",
+     "flag": "DKK",
+     "label": "Greenland",
      "value": "DKK"
     },
     {
-     "label": "Grenada",
      "id": "XCD",
+     "flag": "XCD",
+     "label": "Grenada",
      "value": "XCD"
     },
     {
-     "label": "Guadeloupe",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Guadeloupe",
      "value": "EUR"
     },
     {
-     "label": "Guam",
      "id": "USD",
+     "flag": "USD",
+     "label": "Guam",
      "value": "USD"
     },
     {
-     "label": "Guatemala",
      "id": "QTQ",
+     "flag": "QTQ",
+     "label": "Guatemala",
      "value": "QTQ"
     },
     {
-     "label": "Guinea",
      "id": "GNF",
+     "flag": "GNF",
+     "label": "Guinea",
      "value": "GNF"
     },
     {
-     "label": "Guinea-Bissau",
      "id": "CFA",
+     "flag": "CFA",
+     "label": "Guinea-Bissau",
      "value": "CFA"
     },
     {
-     "label": "Guyana",
      "id": "GYD",
+     "flag": "GYD",
+     "label": "Guyana",
      "value": "GYD"
     },
     {
-     "label": "Haiti",
      "id": "HTG",
+     "flag": "HTG",
+     "label": "Haiti",
      "value": "HTG"
     },
     {
-     "label": "Heard Island and McDonald Islands",
      "id": "AUD",
+     "flag": "AUD",
+     "label": "Heard Island and McDonald Islands",
      "value": "AUD"
     },
     {
-     "label": "Holy See (Vatican City State)",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Holy See (Vatican City State)",
      "value": "EUR"
     },
     {
-     "label": "Honduras",
      "id": "HNL",
+     "flag": "HNL",
+     "label": "Honduras",
      "value": "HNL"
     },
     {
-     "label": "Hong Kong",
      "id": "HKD",
+     "flag": "HKD",
+     "label": "Hong Kong",
      "value": "HKD"
     },
     {
-     "label": "Hungary",
      "id": "HUF",
+     "flag": "HUF",
+     "label": "Hungary",
      "value": "HUF"
     },
     {
-     "label": "Iceland",
      "id": "ISK",
+     "flag": "ISK",
+     "label": "Iceland",
      "value": "ISK"
     },
     {
-     "label": "India",
      "id": "INR",
+     "flag": "INR",
+     "label": "India",
      "value": "INR"
     },
     {
-     "label": "Indonesia",
      "id": "IDR",
+     "flag": "IDR",
+     "label": "Indonesia",
      "value": "IDR"
     },
     {
-     "label": "Iran",
      "id": "IRR",
+     "flag": "IRR",
+     "label": "Iran",
      "value": "IRR"
     },
     {
-     "label": "Iraq",
      "id": "IQD",
+     "flag": "IQD",
+     "label": "Iraq",
      "value": "IQD"
     },
     {
-     "label": "Ireland",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Ireland",
      "value": "EUR"
     },
     {
-     "label": "Israel",
      "id": "ILS",
+     "flag": "ILS",
+     "label": "Israel",
      "value": "ILS"
     },
     {
-     "label": "Italy",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Italy",
      "value": "EUR"
     },
     {
-     "label": "Ivory Coast",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Ivory Coast",
      "value": "XOF"
     },
     {
-     "label": "Jamaica",
      "id": "JMD",
+     "flag": "JMD",
+     "label": "Jamaica",
      "value": "JMD"
     },
     {
-     "label": "Japan",
      "id": "JPY",
+     "flag": "JPY",
+     "label": "Japan",
      "value": "JPY"
     },
     {
-     "label": "Jordan",
      "id": "JOD",
+     "flag": "JOD",
+     "label": "Jordan",
      "value": "JOD"
     },
     {
-     "label": "Kazakhstan",
      "id": "KZT",
+     "flag": "KZT",
+     "label": "Kazakhstan",
      "value": "KZT"
     },
     {
-     "label": "Kenya",
      "id": "KES",
+     "flag": "KES",
+     "label": "Kenya",
      "value": "KES"
     },
     {
-     "label": "Kiribati",
      "id": "AUD",
+     "flag": "AUD",
+     "label": "Kiribati",
      "value": "AUD"
     },
     {
-     "label": "Kuwait",
      "id": "KWD",
+     "flag": "KWD",
+     "label": "Kuwait",
      "value": "KWD"
     },
     {
-     "label": "Kyrgyzstan",
      "id": "KGS",
+     "flag": "KGS",
+     "label": "Kyrgyzstan",
      "value": "KGS"
     },
     {
-     "label": "Laos",
      "id": "LAK",
+     "flag": "LAK",
+     "label": "Laos",
      "value": "LAK"
     },
     {
-     "label": "Latvia",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Latvia",
      "value": "EUR"
     },
     {
-     "label": "Lebanon",
      "id": "LBP",
+     "flag": "LBP",
+     "label": "Lebanon",
      "value": "LBP"
     },
     {
-     "label": "Lesotho",
      "id": "LSL",
+     "flag": "LSL",
+     "label": "Lesotho",
      "value": "LSL"
     },
     {
-     "label": "Liberia",
      "id": "LRD",
+     "flag": "LRD",
+     "label": "Liberia",
      "value": "LRD"
     },
     {
-     "label": "Libyan Arab Jamahiriya",
      "id": "LYD",
+     "flag": "LYD",
+     "label": "Libyan Arab Jamahiriya",
      "value": "LYD"
     },
     {
-     "label": "Liechtenstein",
      "id": "CHF",
+     "flag": "CHF",
+     "label": "Liechtenstein",
      "value": "CHF"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "Lithuania",
-     "id": "EUR",
      "value": "EUR"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "Luxembourg",
-     "id": "EUR",
      "value": "EUR"
     },
     {
-     "label": "Macau",
      "id": "MOP",
+     "flag": "MOP",
+     "label": "Macau",
      "value": "MOP"
     },
     {
-     "label": "North Macedonia",
      "id": "MKD",
+     "flag": "MKD",
+     "label": "North Macedonia",
      "value": "MKD"
     },
     {
-     "label": "Madagascar",
      "id": "MGF",
+     "flag": "MGF",
+     "label": "Madagascar",
      "value": "MGF"
     },
     {
-     "label": "Malawi",
      "id": "MWK",
+     "flag": "MWK",
+     "label": "Malawi",
      "value": "MWK"
     },
     {
-     "label": "Malaysia",
      "id": "MYR",
+     "flag": "MYR",
+     "label": "Malaysia",
      "value": "MYR"
     },
     {
-     "label": "Maldives",
      "id": "MVR",
+     "flag": "MVR",
+     "label": "Maldives",
      "value": "MVR"
     },
     {
-     "label": "Mali",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Mali",
      "value": "XOF"
     },
     {
-     "label": "Malta",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Malta",
      "value": "EUR"
     },
     {
-     "label": "Marshall Islands",
      "id": "USD",
+     "flag": "USD",
+     "label": "Marshall Islands",
      "value": "USD"
     },
     {
-     "label": "Martinique",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Martinique",
      "value": "EUR"
     },
     {
-     "label": "Mauritania",
      "id": "MRO",
+     "flag": "MRO",
+     "label": "Mauritania",
      "value": "MRO"
     },
     {
-     "label": "Mauritius",
      "id": "MUR",
+     "flag": "MUR",
+     "label": "Mauritius",
      "value": "MUR"
     },
     {
-     "label": "Mayotte",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Mayotte",
      "value": "EUR"
     },
     {
-     "label": "Mexico",
      "id": "MXN",
+     "flag": "MXN",
+     "label": "Mexico",
      "value": "MXN"
     },
     {
-     "label": "Micronesia, Federated States of",
      "id": "USD",
+     "flag": "USD",
+     "label": "Micronesia, Federated States of",
      "value": "USD"
     },
     {
-     "label": "Moldova",
      "id": "MDL",
+     "flag": "MDL",
+     "label": "Moldova",
      "value": "MDL"
     },
     {
-     "label": "Monaco",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Monaco",
      "value": "EUR"
     },
     {
-     "label": "Mongolia",
      "id": "MNT",
+     "flag": "MNT",
+     "label": "Mongolia",
      "value": "MNT"
     },
     {
-     "label": "Montserrat",
      "id": "XCD",
+     "flag": "XCD",
+     "label": "Montserrat",
      "value": "XCD"
     },
     {
-     "label": "Morocco",
      "id": "MAD",
+     "flag": "MAD",
+     "label": "Morocco",
      "value": "MAD"
     },
     {
-     "label": "Mozambique",
      "id": "MZN",
+     "flag": "MZN",
+     "label": "Mozambique",
      "value": "MZN"
     },
     {
-     "label": "Myanmar",
      "id": "MMR",
+     "flag": "MMR",
+     "label": "Myanmar",
      "value": "MMR"
     },
     {
-     "label": "Namibia",
      "id": "NAD",
+     "flag": "NAD",
+     "label": "Namibia",
      "value": "NAD"
     },
     {
-     "label": "Nauru",
      "id": "AUD",
+     "flag": "AUD",
+     "label": "Nauru",
      "value": "AUD"
     },
     {
-     "label": "Nepal",
      "id": "NPR",
+     "flag": "NPR",
+     "label": "Nepal",
      "value": "NPR"
     },
     {
-     "label": "Netherlands",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Netherlands",
      "value": "EUR"
     },
     {
-     "label": "Netherlands Antilles",
      "id": "ANG",
+     "flag": "ANG",
+     "label": "Netherlands Antilles",
      "value": "ANG"
     },
     {
-     "label": "New Caledonia",
      "id": "XPF",
+     "flag": "XPF",
+     "label": "New Caledonia",
      "value": "XPF"
     },
     {
-     "label": "New Zealand",
      "id": "NZD",
+     "flag": "NZD",
+     "label": "New Zealand",
      "value": "NZD"
     },
     {
-     "label": "Nicaragua",
      "id": "NIO",
+     "flag": "NIO",
+     "label": "Nicaragua",
      "value": "NIO"
     },
     {
-     "label": "Niger",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Niger",
      "value": "XOF"
     },
     {
-     "label": "Nigeria",
      "id": "NGN",
+     "flag": "NGN",
+     "label": "Nigeria",
      "value": "NGN"
     },
     {
-     "label": "Niue",
      "id": "NZD",
+     "flag": "NZD",
+     "label": "Niue",
      "value": "NZD"
     },
     {
-     "label": "Norfolk Island",
      "id": "AUD",
+     "flag": "AUD",
+     "label": "Norfolk Island",
      "value": "AUD"
     },
     {
-     "label": "North Korea",
      "id": "KPW",
+     "flag": "KPW",
+     "label": "North Korea",
      "value": "KPW"
     },
     {
-     "label": "Northern Ireland",
      "id": "GBP",
+     "flag": "GBP",
+     "label": "Northern Ireland",
      "value": "GBP"
     },
     {
-     "label": "Northern Mariana Islands",
      "id": "USD",
+     "flag": "USD",
+     "label": "Northern Mariana Islands",
      "value": "USD"
     },
     {
-     "label": "Norway",
      "id": "NOK",
+     "flag": "NOK",
+     "label": "Norway",
      "value": "NOK"
     },
     {
-     "label": "Oman",
      "id": "OMR",
+     "flag": "OMR",
+     "label": "Oman",
      "value": "OMR"
     },
     {
-     "label": "Pakistan",
      "id": "PKR",
+     "flag": "PKR",
+     "label": "Pakistan",
      "value": "PKR"
     },
     {
-     "label": "Palau",
      "id": "USD",
+     "flag": "USD",
+     "label": "Palau",
      "value": "USD"
     },
     {
      "label": "Palestine"
     },
     {
-     "label": "Panama",
      "id": "PAB",
+     "flag": "PAB",
+     "label": "Panama",
      "value": "PAB"
     },
     {
-     "label": "Papua New Guinea",
      "id": "PGK",
+     "flag": "PGK",
+     "label": "Papua New Guinea",
      "value": "PGK"
     },
     {
-     "label": "Paraguay",
      "id": "PYG",
+     "flag": "PYG",
+     "label": "Paraguay",
      "value": "PYG"
     },
     {
-     "label": "Peru",
      "id": "PEN",
+     "flag": "PEN",
+     "label": "Peru",
      "value": "PEN"
     },
     {
-     "label": "Philippines",
      "id": "PHP",
+     "flag": "PHP",
+     "label": "Philippines",
      "value": "PHP"
     },
     {
-     "label": "Pitcairn Islands",
      "id": "NZD",
+     "flag": "NZD",
+     "label": "Pitcairn Islands",
      "value": "NZD"
     },
     {
-     "label": "Poland",
      "id": "PLN",
+     "flag": "PLN",
+     "label": "Poland",
      "value": "PLN"
     },
     {
-     "label": "Portugal",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Portugal",
      "value": "EUR"
     },
     {
-     "label": "Puerto Rico",
      "id": "USD",
+     "flag": "USD",
+     "label": "Puerto Rico",
      "value": "USD"
     },
     {
-     "label": "Qatar",
      "id": "QAR",
+     "flag": "QAR",
+     "label": "Qatar",
      "value": "QAR"
     },
     {
-     "label": "Reunion",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Reunion",
      "value": "EUR"
     },
     {
-     "label": "Romania",
      "id": "RON",
+     "flag": "RON",
+     "label": "Romania",
      "value": "RON"
     },
     {
-     "label": "Russian Federation",
      "id": "RUB",
+     "flag": "RUB",
+     "label": "Russian Federation",
      "value": "RUB"
     },
     {
-     "label": "Rwanda",
      "id": "RWF",
+     "flag": "RWF",
+     "label": "Rwanda",
      "value": "RWF"
     },
     {
-     "label": "Saint Helena",
      "id": "SHP",
+     "flag": "SHP",
+     "label": "Saint Helena",
      "value": "SHP"
     },
     {
+     "id": "XCD",
+     "flag": "XCD",
      "label": "Saint Kitts and Nevis",
-     "id": "XCD",
      "value": "XCD"
     },
     {
+     "id": "XCD",
+     "flag": "XCD",
      "label": "Saint Lucia",
-     "id": "XCD",
      "value": "XCD"
     },
     {
-     "label": "Saint Pierre and Miquelon",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Saint Pierre and Miquelon",
      "value": "EUR"
     },
     {
-     "label": "Saint Vincent and the Grenadines",
      "id": "XCD",
+     "flag": "XCD",
+     "label": "Saint Vincent and the Grenadines",
      "value": "XCD"
     },
     {
-     "label": "Samoa",
      "id": "WST",
+     "flag": "WST",
+     "label": "Samoa",
      "value": "WST"
     },
     {
-     "label": "San Marino",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "San Marino",
      "value": "EUR"
     },
     {
-     "label": "Sao Tome and Principe",
      "id": "STD",
+     "flag": "STD",
+     "label": "Sao Tome and Principe",
      "value": "STD"
     },
     {
-     "label": "Saudi Arabia",
      "id": "SAR",
+     "flag": "SAR",
+     "label": "Saudi Arabia",
      "value": "SAR"
     },
     {
-     "label": "Scotland",
      "id": "GBP",
+     "flag": "GBP",
+     "label": "Scotland",
      "value": "GBP"
     },
     {
-     "label": "Senegal",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Senegal",
      "value": "XOF"
     },
     {
-     "label": "Serbia",
      "id": "RSD",
+     "flag": "RSD",
+     "label": "Serbia",
      "value": "RSD"
     },
     {
-     "label": "Seychelles",
      "id": "SCR",
+     "flag": "SCR",
+     "label": "Seychelles",
      "value": "SCR"
     },
     {
-     "label": "Sierra Leone",
      "id": "SLL",
+     "flag": "SLL",
+     "label": "Sierra Leone",
      "value": "SLL"
     },
     {
-     "label": "Singapore",
      "id": "SGD",
+     "flag": "SGD",
+     "label": "Singapore",
      "value": "SGD"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "Slovakia",
-     "id": "EUR",
      "value": "EUR"
     },
     {
+     "id": "EUR",
+     "flag": "EUR",
      "label": "Slovenia",
-     "id": "EUR",
      "value": "EUR"
     },
     {
-     "label": "Solomon Islands",
      "id": "SBD",
+     "flag": "SBD",
+     "label": "Solomon Islands",
      "value": "SBD"
     },
     {
-     "label": "Somalia",
      "id": "SOS",
+     "flag": "SOS",
+     "label": "Somalia",
      "value": "SOS"
     },
     {
-     "label": "South Africa",
      "id": "ZAR",
+     "flag": "ZAR",
+     "label": "South Africa",
      "value": "ZAR"
     },
     {
-     "label": "South Georgia and the South Sandwich Islands",
      "id": "GBP",
+     "flag": "GBP",
+     "label": "South Georgia and the South Sandwich Islands",
      "value": "GBP"
     },
     {
-     "label": "South Korea",
      "id": "KRW",
+     "flag": "KRW",
+     "label": "South Korea",
      "value": "KRW"
     },
     {
-     "label": "South Sudan",
      "id": "SSP",
+     "flag": "SSP",
+     "label": "South Sudan",
      "value": "SSP"
     },
     {
-     "label": "Spain",
      "id": "EUR",
+     "flag": "EUR",
+     "label": "Spain",
      "value": "EUR"
     },
     {
-     "label": "Sri Lanka",
      "id": "LKR",
+     "flag": "LKR",
+     "label": "Sri Lanka",
      "value": "LKR"
     },
     {
-     "label": "Sudan",
      "id": "SDG",
+     "flag": "SDG",
+     "label": "Sudan",
      "value": "SDG"
     },
     {
-     "label": "Suriname",
      "id": "SRD",
+     "flag": "SRD",
+     "label": "Suriname",
      "value": "SRD"
     },
     {
-     "label": "Svalbard and Jan Mayen",
      "id": "NOK",
+     "flag": "NOK",
+     "label": "Svalbard and Jan Mayen",
      "value": "NOK"
     },
     {
-     "label": "Swaziland",
      "id": "SZL",
+     "flag": "SZL",
+     "label": "Swaziland",
      "value": "SZL"
     },
     {
-     "label": "Sweden",
      "id": "SEK",
+     "flag": "SEK",
+     "label": "Sweden",
      "value": "SEK"
     },
     {
-     "label": "Switzerland",
      "id": "CHF",
+     "flag": "CHF",
+     "label": "Switzerland",
      "value": "CHF"
     },
     {
-     "label": "Syria",
      "id": "SYP",
+     "flag": "SYP",
+     "label": "Syria",
      "value": "SYP"
     },
     {
-     "label": "Tajikistan",
      "id": "TJS",
+     "flag": "TJS",
+     "label": "Tajikistan",
      "value": "TJS"
     },
     {
-     "label": "Tanzania",
      "id": "TZS",
+     "flag": "TZS",
+     "label": "Tanzania",
      "value": "TZS"
     },
     {
-     "label": "Thailand",
      "id": "THB",
+     "flag": "THB",
+     "label": "Thailand",
      "value": "THB"
     },
     {
-     "label": "The Democratic Republic of Congo",
      "id": "CDF",
+     "flag": "CDF",
+     "label": "The Democratic Republic of Congo",
      "value": "CDF"
     },
     {
-     "label": "Togo",
      "id": "XOF",
+     "flag": "XOF",
+     "label": "Togo",
      "value": "XOF"
     },
     {
-     "label": "Tokelau",
      "id": "NZD",
+     "flag": "NZD",
+     "label": "Tokelau",
      "value": "NZD"
     },
     {
-     "label": "Tonga",
      "id": "TOP",
+     "flag": "TOP",
+     "label": "Tonga",
      "value": "TOP"
     },
     {
-     "label": "Trinidad and Tobago",
      "id": "TTD",
+     "flag": "TTD",
+     "label": "Trinidad and Tobago",
      "value": "TTD"
     },
     {
-     "label": "Tunisia",
      "id": "TND",
+     "flag": "TND",
+     "label": "Tunisia",
      "value": "TND"
     },
     {
-     "label": "Turkey",
      "id": "TRY",
+     "flag": "TRY",
+     "label": "Turkey",
      "value": "TRY"
     },
     {
-     "label": "Turkmenistan",
      "id": "TMT",
+     "flag": "TMT",
+     "label": "Turkmenistan",
      "value": "TMT"
     },
     {
-     "label": "Turks and Caicos Islands",
      "id": "USD",
+     "flag": "USD",
+     "label": "Turks and Caicos Islands",
      "value": "USD"
     },
     {
-     "label": "Tuvalu",
      "id": "AUD",
+     "flag": "AUD",
+     "label": "Tuvalu",
      "value": "AUD"
     },
     {
-     "label": "Uganda",
      "id": "UGX",
+     "flag": "UGX",
+     "label": "Uganda",
      "value": "UGX"
     },
     {
-     "label": "Ukraine",
      "id": "UAH",
+     "flag": "UAH",
+     "label": "Ukraine",
      "value": "UAH"
     },
     {
-     "label": "United Arab Emirates",
      "id": "AED",
+     "flag": "AED",
+     "label": "United Arab Emirates",
      "value": "AED"
     },
     {
-     "label": "United Kingdom",
      "id": "GBP",
+     "flag": "GBP",
+     "label": "United Kingdom",
      "value": "GBP"
     },
     {
+     "id": "USD",
+     "flag": "USD",
      "label": "United States",
-     "id": "USD",
      "value": "USD"
     },
     {
+     "id": "USD",
+     "flag": "USD",
      "label": "United States Minor Outlying Islands",
-     "id": "USD",
      "value": "USD"
     },
     {
-     "label": "Uruguay",
      "id": "UYU",
+     "flag": "UYU",
+     "label": "Uruguay",
      "value": "UYU"
     },
     {
-     "label": "Uzbekistan",
      "id": "UZS",
+     "flag": "UZS",
+     "label": "Uzbekistan",
      "value": "UZS"
     },
     {
-     "label": "Vanuatu",
      "id": "VUV",
+     "flag": "VUV",
+     "label": "Vanuatu",
      "value": "VUV"
     },
     {
-     "label": "Venezuela",
      "id": "VEF",
+     "flag": "VEF",
+     "label": "Venezuela",
      "value": "VEF"
     },
     {
-     "label": "Vietnam",
      "id": "VND",
+     "flag": "VND",
+     "label": "Vietnam",
      "value": "VND"
     },
     {
+     "id": "USD",
+     "flag": "USD",
      "label": "Virgin Islands, British",
-     "id": "USD",
      "value": "USD"
     },
     {
+     "id": "USD",
+     "flag": "USD",
      "label": "Virgin Islands, U.S.",
-     "id": "USD",
      "value": "USD"
     },
     {
-     "label": "Wales",
      "id": "GBP",
+     "flag": "GBP",
+     "label": "Wales",
      "value": "GBP"
     },
     {
-     "label": "Wallis and Futuna",
      "id": "XPF",
+     "flag": "XPF",
+     "label": "Wallis and Futuna",
      "value": "XPF"
     },
     {
-     "label": "Western Sahara",
      "id": "MAD",
+     "flag": "MAD",
+     "label": "Western Sahara",
      "value": "MAD"
     },
     {
-     "label": "Yemen",
      "id": "YER",
+     "flag": "YER",
+     "label": "Yemen",
      "value": "YER"
     },
     {
-     "label": "Zambia",
      "id": "ZMW",
+     "flag": "ZMW",
+     "label": "Zambia",
      "value": "ZMW"
     },
     {
-     "label": "Zimbabwe",
      "id": "ZWD",
+     "flag": "ZWD",
+     "label": "Zimbabwe",
      "value": "ZWD"
     }
    ]
