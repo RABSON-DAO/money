@@ -15,20 +15,16 @@ const initialState: DashboardState = {
   delivery: moment().set('hour', 12).toString(),
   typeDelivery: 'Express',
   fromCountry: {
-    label: 'Brazil',
-    id: 'BRL',
-    value: 'BRL',
-    flag: 'https://www.countryflags.io/br/flat/64.png',
+    label: 'United Kingdom',
+    id: 'GBP',
+    value: '£',
+    flag: 'https://www.countryflags.io/uk/flat/64.png',
   },
   toCountry: {
     label: 'SberBank',
     id: 'RUB',
-    value: '₽', 
+    value: '₽',
     flag: 'https://www.countryflags.io/ru/flat/64.png',
-    label: 'Canada',
-    id: 'CAD',
-    value: 'CAD',
-    flag: 'https://www.countryflags.io/ca/flat/64.png',
   },
 };
 
