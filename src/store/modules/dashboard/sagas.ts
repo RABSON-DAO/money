@@ -9,7 +9,7 @@ import { countriesSuccessRequest } from './actions';
 function* getCountries() {
   const response = yield call(
     axios.get,
-    'https://jsonkeeper.com/b/GZRV',
+    'https://jsonkeeper.com/b/DPI0',
     // 'https://my-json-server.typicode.com/juliomerisio/currency-json-server/currencies',
   );
 
