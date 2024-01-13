@@ -6,11 +6,11 @@ const supportedLocales = {
     dashboard: require('./locales/en-US/dashboard.json'),
     aside: require('./locales/pt-BR/aside.json'),
   },
-  'pt-BR': {
+  /* 'pt-BR': {
     common: require('./locales/pt-BR/common.json'),
     dashboard: require('./locales/pt-BR/dashboard.json'),
     aside: require('./locales/pt-BR/aside.json'),
-  },
+  }, */
 };
 
 export { defaultLocale, supportedLocales };
