@@ -21,10 +21,17 @@ const initialState: DashboardState = {
     flag: 'https://www.countryflags.io/br/flat/64.png',
   },
   toCountry: {
+<<<<<<< HEAD
+    label: 'SberBank',
+    id: 'RUB',
+    value: '₽', 
+    flag: 'https://www.countryflags.io/ru/flat/64.png',
+=======
     label: 'Canada',
     id: 'CAD',
     value: 'CAD',
     flag: 'https://www.countryflags.io/ca/flat/64.png',
+>>>>>>> 7cc7dcaa948b865d5b0cae7a66d164d60e689237
   },
 };
 
